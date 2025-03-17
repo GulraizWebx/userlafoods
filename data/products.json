@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "title": "DELI",
+        "imgf": "deli-1.jpg",
+        "imgb": "deli-2.jpg",
+        "category": [
+            {
+                "type": "Kids"
+            }
+        ],
+        "color": [
+            {
+                "type": "Black"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Adidas"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 20
+        }
+    },
+    {
+        "id": 2,
+        "title": "Fresh & Frozen Meat",
+        "imgf": "frozen-meat-2.jpg",
+        "imgb": "frozen_meat-1.jpg",
+        "category": [
+            {
+                "type": "Mens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Blue"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Balenciaga"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 30
+        }
+    },
+    {
+        "id": 3,
+        "title": "Sea Food",
+        "imgf": "seafood.jpg",
+        "imgb": "seafood2.jpg",
+        "category": [
+            {
+                "type": "Womens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Gray"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Balmain"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 40
+        }
+    },
+    {
+        "id": 4,
+        "title": "Dairy",
+        "imgf": "dairy.jpg",
+        "imgb": "dairy2.jpg",
+        "category": [
+            {
+                "type": "Mens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Green"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Burberry"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 40
+        }
+    },
+    {
+        "id": 5,
+        "title": "Dry Groceries",
+        "imgf": "groceries.jpg",
+        "imgb": "groceries_2.jpg",
+        "category": [
+            {
+                "type": "Kids"
+            }
+        ],
+        "color": [
+            {
+                "type": "Black"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Adidas"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 50
+        }
+    },
+    {
+        "id": 6,
+        "title": "Fresh Procedure",
+        "imgf": "fresh.jpg",
+        "imgb": "fresh1.jpg",
+        "category": [
+            {
+                "type": "Mens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Red"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Chloe"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 60
+        }
+    },
+    {
+        "id": 7,
+        "title": "Sally Ray",
+        "imgf": "product-13.jpg",
+        "imgb": "product-14.jpg",
+        "category": [
+            {
+                "type": "Womens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Blue"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Balenciaga"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 70
+        }
+    },
+    {
+        "id": 8,
+        "title": "Ora Bowman",
+        "imgf": "product-15.jpg",
+        "imgb": "product-16.jpg",
+        "category": [
+            {
+                "type": "Mens"
+            }
+        ],
+        "color": [
+            {
+                "type": "Gray"
+            }
+        ],
+        "brand": [
+            {
+                "type": "Balmain"
+            }
+        ],
+        "price": {
+            "min": 0,
+            "max": 80
+        }
+    }
+]
